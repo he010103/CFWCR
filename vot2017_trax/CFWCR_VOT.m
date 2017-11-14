@@ -1,4 +1,4 @@
-function ECO_VOT()
+function CFWCR_VOT()
 
 	% *************************************************************
 	% VOT: Always call exit command at the end to terminate Matlab!
