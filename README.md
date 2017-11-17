@@ -2,7 +2,7 @@
 By Zhiqun He, Yingruo Fan, Junfei Zhuang, Yuan Dong, Hongliang Bai
 
 ### Introduction
-![CFWCR](results/1.jpg) 
+![CFWCR](results/1.jpeg) 
  
 >We derive a continuous convolution operator based tracker whichfully exploits the discriminative power in the CNN featurerepresentations. In our work, we normalize each individual feature extracted from different layers of the deep pretrained CNN first, and after that, the weighted convolution responses from each feature block are summed to produce the final confidence score. By this weighted sum operation, the empirical evaluations demonstrate clear improvementsby our proposed tracker based on the Efficient Convolu- tion Operators Tracker (ECO).  
 
